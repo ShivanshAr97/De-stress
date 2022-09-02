@@ -8,6 +8,10 @@ This application proposes to solve the issue by creating a schedule for the stud
 fatigue as much as possible.
 
 Tech stack used:
-ReactJS
+NextJS
+Tailwind CSS
 
 How to use the repo:
+
+1. Clone the Repo in your local system
+2. Go to terminal and run the command 'npm run dev'.
