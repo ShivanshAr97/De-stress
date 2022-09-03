@@ -4,6 +4,7 @@ import Image from "next/image";
 import { HowToUse } from "./HowToUse/HowToUse";
 import { AboutUs } from "./AboutUs/AboutUs";
 import { Footer } from "./Footer/Footer";
+import { Chat } from "./Chatbot/Chat";
 const Homepage = () => {
     return (
         <div className="width-full">
@@ -12,6 +13,7 @@ const Homepage = () => {
             <HowToUse />
             <AboutUs />
             <Footer />
+            <Chat />
         </div>
     );
 };
