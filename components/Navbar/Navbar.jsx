@@ -12,7 +12,7 @@ export const Navbar = () => {
     });
     return (
         <>
-            <div className="flex flex-row justify-between border py-4 px-20 bg-[#1B0044]">
+            <div className="flex flex-row justify-between py-4 px-20 bg-[#1B0044]">
                 <div className="flex flex-row gap-4">
                     <img
                         src="/assets/brain.svg"
