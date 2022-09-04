@@ -1,4 +1,4 @@
-# Mental-Notes
+# De-stress
 
 Meso Hackathon project
 
@@ -21,3 +21,4 @@ How to use the repo:
 
 Note:
 1. System should have npm download manager installed
+2. Run 'npm install' to download all dependencies.
